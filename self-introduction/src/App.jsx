@@ -1,0 +1,13 @@
+
+import SelfIntroduction from "./components/SelfIntroduction"
+import "./App.css"
+
+function App() {
+  return (
+    <>
+      <SelfIntroduction />
+    </>
+  )
+}
+
+export default App
