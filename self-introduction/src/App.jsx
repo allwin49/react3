@@ -1,8 +1,9 @@
 
-import Task3 from "./components/Task3.jsx";
+// import Task3 from "./components/Task3.jsx";
 
 // import SelfIntroduction from "./components/SelfIntroduction";
 // import Child from "./components/child.jsx";
+import Task4 from "./components/task4/Task4";
 
 function App() {
   return (
@@ -30,7 +31,9 @@ function App() {
         email="vijay@gmail.com" phone="9876543214" />
       */}
 
-      <Task3 />
+      {/* <Task3 /> */}
+
+      <Task4/>
     </>
   );
 }

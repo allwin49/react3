@@ -1,7 +1,7 @@
 
 import { useState } from "react";
-import Home from "./Home";
-import Login from "./Login";
+import Home from "./components/Home";
+import Login from "./components/Login";
 import "./task3.css";
 
 const users = [
