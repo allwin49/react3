@@ -46,13 +46,28 @@
 
 
 
+// import React from "react"
+// import Registration from "./components/task5/registration.jsx"
+
+// function App() {
+//     return (
+//         <>
+//             <Registration />
+//         </>
+//     )
+// }
+
+// export default App
+
+
+
 import React from "react"
-import Registration from "./components/task5/registration.jsx"
+import XOGame from "./components/task6/xo.jsx"
 
 function App() {
     return (
         <>
-            <Registration />
+            <XOGame />
         </>
     )
 }
